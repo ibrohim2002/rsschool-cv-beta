@@ -1,11 +1,19 @@
 
 # Ibrokhim Dadamukhamedov
-Web developer 
+19 years old
+Web developer
 
+## Address
+Uzbekistan, Tashkent City, Yunusabad District
+
+<hr>
+
+## Contact
 <div id="webaddress">
 <a href="https://t.me/ibrohim_07_10">📩 Telegram</a> | <a href="https://www.instagram.com/ibroyimboy/">📫 Instagram</a>
 </div>
 
+<hr>
 
 ## Currently
 
@@ -28,3 +36,10 @@ Java        ++ooo
 HTML/CSS    ++++o
 
 </pre>
+
+<hr>
+
+## Hobby
+
+Coding
+Playing football
