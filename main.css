@@ -1,0 +1,51 @@
+body{
+    font-family: sans-serif;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.main-header__photo img{
+    width: 64px;
+    border-radius: 50%;
+}
+
+.main-header__photo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main-navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main-navigation__item{
+    display: inline-block;
+    padding: 10px;
+}
+
+.main-navigation__item a{
+    text-decoration: none;
+    color: #05364d;
+    text-transform: uppercase;
+    font-weight: 14;
+}
+
+.main-navigation__item a:hover{
+    color: #efb6df;
+}
+
+
+/* main-section */
+
+.main-section{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.main-section__btn{
+    background-color: orangered;
+}
