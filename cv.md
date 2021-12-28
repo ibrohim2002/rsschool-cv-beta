@@ -1,7 +1,10 @@
 
-# Ibrokhim Dadamukhamedov
+### Ibrokhim Dadamukhamedov
+
 19 years old
 Web developer
+
+<hr>
 
 ## Address
 Uzbekistan, Tashkent City, Yunusabad District
@@ -9,6 +12,7 @@ Uzbekistan, Tashkent City, Yunusabad District
 <hr>
 
 ## Contact
+Phone number : +998 99 800 87 77
 <div id="webaddress">
 <a href="https://t.me/ibrohim_07_10">📩 Telegram</a> | <a href="https://www.instagram.com/ibroyimboy/">📫 Instagram</a>
 </div>
