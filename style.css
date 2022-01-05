@@ -20,15 +20,6 @@ i{
     margin: 0 auto;
 }
 
-@keyframes box{
-    from{
-        height: 0px;
-    }
-    to{
-        height: 68px;
-    }
-}
-
 .main-header{
     position: fixed;
     top: 0px;
@@ -36,8 +27,6 @@ i{
     width: 100%;
     background-color: #021017;
     box-shadow: 0px 3px 16px 0px rgb(0 0 0 / 10%);
-    animation-name: box;
-    animation-duration: 2s;
 }
 
 .main-header__photo img{
@@ -153,6 +142,10 @@ i{
     border: solid 1px;
     border-radius: 10px;
     box-shadow: 16px 16px 16px 0px;
+}
+
+.skills__box li{
+    list-style-type: none;
 }
 
 .box__indicator{
