@@ -144,9 +144,6 @@ i{
     box-shadow: 16px 16px 16px 0px;
 }
 
-.skills__box li{
-    list-style-type: none;
-}
 
 .box__indicator{
     border: solid 2px white;
